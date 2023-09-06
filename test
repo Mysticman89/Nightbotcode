@@ -1,1 +1,1 @@
-a=["a herring", "a codfish", "a trout", "a salmon", "a dolphin", "a swordfish"]a[Math.floor(Math.random()*a.length)]
+{a=["a herring", "a codfish", "a trout", "a salmon", "a dolphin", "a swordfish"]a[Math.floor(Math.random()*a.length)]}
