@@ -1,1 +1,1 @@
-{a=["a herring", "a codfish", "a trout", "a salmon", "a dolphin", "a swordfish"]a[Math.floor(Math.random()*a.length)]}
+{r=['hammer', 'glizzy', 'hammerhead shark', 'fork', 'stuffed animal', 'crunchwrap supreme', 'baha blast', 'fushigi', 'stream deck', 'diamond painting', 'Garth Brooks backstage pass', 'NSYNC Marionette', 'USB-C charger', 'butterfly knife']; r[Math.floor(Math.random()*14)]}
