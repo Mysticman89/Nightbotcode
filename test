@@ -1,1 +1,7 @@
-{r=['hammer', 'glizzy', 'hammerhead shark', 'fork', 'stuffed animal', 'crunchwrap supreme', 'baha blast', 'fushigi', 'stream deck', 'diamond painting', 'Garth Brooks backstage pass', 'NSYNC Marionette', 'USB-C charger', 'butterfly knife']; r[Math.floor(Math.random()*14)]}
+const fruits = new Map([
+  ["apples", 500],
+  ["bananas", 300],
+  ["oranges", 200]
+]);
+
+fruits.get("apples");
