@@ -1,7 +1,7 @@
 const fruits = new Map([
-  ["Mysticman89", Value],
+  ["Mysticman89", "Value"],
   ["bananas", 300],
   ["oranges", 200]
 ]);
 
-"fruits.get(u)";
+fruits.get(u);
