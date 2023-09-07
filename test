@@ -1,5 +1,5 @@
 const fruits = new Map([
-  [Mysticman89, Value],
+  ["Mysticman89", Value],
   ["bananas", 300],
   ["oranges", 200]
 ]);
