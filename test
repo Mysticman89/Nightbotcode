@@ -4,4 +4,4 @@ const fruits = new Map([
   ["oranges", 200]
 ]);
 
-fruits.get(u);
+"fruits.get(u)";
