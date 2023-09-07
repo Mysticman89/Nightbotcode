@@ -1,5 +1,5 @@
 const awards = new Map([
-  ["Mysticman89", "The winner of the Biggest Brain Award"],
+  ["mysticman89", "The winner of the Biggest Brain Award"],
   ["buttery_flaky", "The queen and host of the Awards],
   ["testname", "Didnt actually win anything but they were there"]
 ]);
