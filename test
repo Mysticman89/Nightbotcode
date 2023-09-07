@@ -4,4 +4,7 @@ const awards = new Map([
   ["testname", "Didnt actually win anything but they were there"]
 ]);
 
+if (awards.has(u)){
 awards.get(u);
+}
+else { "They did not win an award." };
