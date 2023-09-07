@@ -1,7 +1,7 @@
-const fruits = new Map([
-  ["Mysticman89", "Value"],
-  ["bananas", 300],
-  ["oranges", 200]
+const awards = new Map([
+  ["Mysticman89", "The winner of the Biggest Brain Award"],
+  ["buttery_flaky", "The queen and host of the Awards],
+  ["testname", "Didnt actually win anything but they were there"]
 ]);
 
-fruits.get(u);
+awards.get(u);
