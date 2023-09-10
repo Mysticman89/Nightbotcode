@@ -7,7 +7,7 @@ const awards = new Map([
   ["babyhandsjones", "The winner of the Rizziest Chatter Award"],
   ["eat_pant__", "The winner of the Best New Chatter Award"],
   ["brutalrichard", "The winner of the Scariest Chatter Award"],
-  ["polarosito", "The winner of the Funniest Chatter Award", and cowinner of the Home Away from Home Award],
+  ["polarosito", "The winner of the Funniest Chatter Award, and cowinner of the Home Away from Home Award"],
   ["k1ller_kaz", "The winner of the Mod of the Year Award, EGirl of the Year Award, and Top Gifter Award"],
   ["beetlejuice", "Voted Best Cosplay"],
   ["flaky_mom", "The queen mother, and winner of the Best Mom Award"],
