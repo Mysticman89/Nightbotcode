@@ -45,9 +45,9 @@ const awards = new Map([
   ["cum+1", "The true secret ingredient"],
   ["gwiddy", "https://clips.twitch.tv/UgliestYawningKleeThunBeast-rpOvWz2WMWeka-Ac"],
   ["secrets", "I'm sure you feel very clever. Theres more to find though"],
-  ["goose", "Honk! Honk! butter471Goosey"],
-  ["shrek", "I believe you mean buttery_flaky butter471Shrek"],
-  ["swag", "Swag butter471Swag"],
+  ["goose", "Honk! Honk!"],
+  ["shrek", "I believe you mean buttery_flaky"],
+  ["swag", "Swag"],
 ]);
 
 if (awards.has(u)){
