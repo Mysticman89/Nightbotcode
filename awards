@@ -47,7 +47,7 @@ const awards = new Map([
   ["secrets", "I'm sure you feel very clever. Theres more to find though"],
   ["goose", "Honk! Honk!"],
   ["shrek", "I believe you mean buttery_flaky"],
-  ["swag", "Swag"],
+  ["swag", "Swag"]
 ]);
 
 if (awards.has(u)){
