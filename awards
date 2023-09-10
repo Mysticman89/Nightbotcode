@@ -50,7 +50,4 @@ const awards = new Map([
   ["swag", "Swag"]
 ]);
 
-if (awards.has(u)){
-awards.get(u);
-}
-else { "They did not win an award." };
+awards.has(u) ? awards.get(u) : "They did not win an award.";
