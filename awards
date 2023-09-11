@@ -22,7 +22,7 @@ const awards = new Map([
   ["dayewalker", "The winner of the Gene Siskel + Roger Ebert Special Recognition Award"],
   ["bobbiepalcka", "The winner of the Best and Biggest Joint Bank Accounts with Flaky Award"],
   ["0riginevil", "Alongside Mrs_Origin, winner of the Best Couple Award"],
-  ["mrs_orgin", "Alongside 0riginEvil, Winner of the Best Couple Award"],
+  ["mrs_origin", "Alongside 0riginEvil, Winner of the Best Couple Award"],
   ["quicksandgm", "The winner of the Unintentional Inspo Award"],
   ["the_allimo", "The winner of the Neopets Queen of the Universe Award"],
   ["talzod", "The winner of the Head Chef Award"],
