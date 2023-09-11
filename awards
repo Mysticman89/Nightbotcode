@@ -49,7 +49,7 @@ const awards = new Map([
   ["shrek", "I believe you mean buttery_flaky"],
   ["a_n_i_v", "Thinks they're a real person who can use this command too"],
   ["nightbot", "Is a bot, and did not win any awards"],
-  ["help", "Use this command with no argument to check your award status, or use !afa @someone to check someone elses award status. There are some secrets too. :)"],
+  ["help", "Use this command with no argument to check your award status, or use !afa @someone to check someone elses award status. There are some secrets too. PotFriend"],
   ["swag", "Swag"]
 ]);
 
