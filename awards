@@ -51,7 +51,7 @@ const awards = new Map([
   ["nightbot", "Is a bot, and did not win any awards"],
   ["help", "Use this command with no argument to check your award status, or use !afa @someone to check someone elses award status. There are some secrets too. PotFriend"],
   ["swag", "Swag"],
-  ["gorkfeld", "*gentle tapping soundns*"]
+  ["gorkfeld", "*gentle tapping sounds*"]
 ]);
 
 awards.has(u) ? awards.get(u) : "They did not win an award.";
